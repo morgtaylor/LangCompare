@@ -1,0 +1,6 @@
+Timing:
+https://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-c
+
+Insertion Sort:
+https://www.geeksforgeeks.org/insertion-sort-algorithm/
+https://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort#Python
