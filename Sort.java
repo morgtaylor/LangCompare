@@ -28,8 +28,8 @@ public class Sort {
             sort(array);
             long endTime = System.nanoTime();
 
-            double totalTime = (endTime - startTime) / 1_000_000.0;
-            System.out.println(totalTime);
+            double totalTimeInSeconds = (endTime - startTime) / 1_000_000_000.0;
+            System.out.println(totalTimeInSeconds);
             n *= 2;
         }
     }
