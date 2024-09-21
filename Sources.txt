@@ -5,3 +5,4 @@ Insertion Sort:
 https://www.geeksforgeeks.org/insertion-sort-algorithm/
 https://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort#Python
 https://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-chttps://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-c
+https://blog.boot.dev/golang/insertion-sort-golang/
